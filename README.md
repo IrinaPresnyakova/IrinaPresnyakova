@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @IrinaPresnyakova
-- 👀 I’m interested in languages and linguisitcs, AI, data visualization
-- 🌱 I’m currently learning JS, CSS, HTML, set theory, and drawing
-- 📫 How to reach me: email     
+Hi, I’m Irina. I’m interested in puzzles, mazes, and ciphers of different kinds, and I hope to decode the Voynich Manuscrit one day. I am an aspiring web develper who is excited for this new coding journey! 
 
-<!---
-IrinaPresnyakova/IrinaPresnyakova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can reach me by email or message me on LinkedIn (https://www.linkedin.com/in/irina-presnyakova)     
+
+
